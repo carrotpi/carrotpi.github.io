@@ -11,30 +11,30 @@ const profile = {
    
     Currently this project is aimed at contributing to opensource projects to enhance the skill and learning experience.`,
     findMeOn: [
-      {
-        iconName: 'mdi-linkedin',
-        text: '@moseschristopher',
-        url: 'https://www.linkedin.com/in/moseschristopher',
-        hoverColor: '#e9641c'
-      },
-      {
-        iconName: 'twitter',
-        text: '@thecarrotpi',
-        url: 'https://twitter.com/thecarrotpi',
-        hoverColor: '#1da1f2'
-      },
-      {
-        iconName: 'location',
-        text: 'Bengaluru, India',
-        url: '',
-        hoverColor: '#546e7a'
-      },
-      {
-        iconName: 'email',
-        text: 'moseschristopherb@gmail.com',
-        url: 'mailto://moseschristopherb@gmail.com',
-        hoverColor: '#546e7a'
-      }
+//      {
+//        iconName: 'mdi-linkedin',
+//        text: '@moseschristopher',
+//        url: 'https://www.linkedin.com/in/moseschristopher',
+//        hoverColor: '#e9641c'
+//      },
+//      {
+//        iconName: 'twitter',
+//        text: '@thecarrotpi',
+//        url: 'https://twitter.com/thecarrotpi',
+//        hoverColor: '#1da1f2'
+//      },
+//      {
+//        iconName: 'location',
+//        text: 'Bengaluru, India',
+//        url: '',
+//        hoverColor: '#546e7a'
+//      },
+//      {
+//        iconName: 'email',
+//        text: 'moseschristopherb@gmail.com',
+//        url: 'mailto://moseschristopherb@gmail.com',
+//        hoverColor: '#546e7a'
+//      }
     ]
   },
   social: [
@@ -96,14 +96,16 @@ const projects = [
   },
 ]
 
-const formUrl = 'http://localhost:4000'
+const formUrl = 'http://carrotpi.com:4000'
 const ReCAPTCHAKey = '6LcBOC8UAAAAAM9YRyBp1RR-1NnwvMU8UDsR63Vu'
 const missingProjectIcon = './assets/no-work-icon.jpg'
+const patchIcon = './assets/patch-icon.jpg'
 
 export {
   profile,
   projects,
   formUrl,
   ReCAPTCHAKey,
-  missingProjectIcon
+  missingProjectIcon,
+  patchIcon
 }

@@ -8,10 +8,17 @@
         <lastmod>2022-12-31</lastmod>
     </url>
     <url>
-        <loc>https://carrotpi.com/posts/</loc>
+        <loc>https://carrotpi.com/contribs/</loc>
     </url>
     <url>
-        <loc>https://carrotpi.com/posts/linux-process/</loc>
-        <lastmod>2022-12-31</lastmod>
+        <loc>https://carrotpi.com/contribs/apertis/</loc>
+        <lastmod>2023-01-01</lastmod>
+    </url>
+    <url>
+        <loc>https://carrotpi.com/contribs/u-boot-guardian/</loc>
+        <lastmod>2023-01-01</lastmod>
+    </url>
+    <url>
+        <loc>https://carrotpi.com/posts/</loc>
     </url>
 </urlset>
